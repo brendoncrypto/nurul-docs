@@ -40,6 +40,7 @@
 * [Sample Prompts](resources/sample-prompts.md)
 * [FAQ](resources/faq.md)
 * [Troubleshooting](resources/troubleshooting.md)
+* [Project Roadmap](project-roadmap.md)
 
 ## Contributing
 
