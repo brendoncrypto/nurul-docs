@@ -41,6 +41,7 @@
 * [FAQ](resources/faq.md)
 * [Troubleshooting](resources/troubleshooting.md)
 * [Project Roadmap](project-roadmap.md)
+* [Development Priorities](development-priorities.md)
 
 ## Contributing
 
